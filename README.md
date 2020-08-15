@@ -8,4 +8,4 @@ It is made using python and libtorrent module
 
 # Snapshot
 
-![Sample](https://github.com/nishan7/Movie_Stream/blob/master/demo.png)
+![Sample](https://github.com/nishan7/Torrent_Downloader/blob/master/torrent_demo.png)
